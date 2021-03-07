@@ -18,10 +18,5 @@
     "id_product": 987,
     "product_name": "Процессор",
     "price": 4800
-  },
-  {
-    "id_product": 654,
-    "product_name": "Жесткий диск",
-    "price": 6200
   }
 ]
